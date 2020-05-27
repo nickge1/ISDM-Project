@@ -5,6 +5,8 @@
 
 ## Executive Summary
 ### Problem Definition
+The current system for a Call Management Centre is inefficient. Both potential and existing customers are matched to Relationship Managers according to availability. As a result, the time of the Relationship Managers is not being used efficiently and customers have to wait longer to talk to a Relationship Manager. Consequently, customers are less likely to accept an offered product and sales are reduced. A new system is to be developed to increase the amount of customers and the likelihood of customers purchasing products.
+
 ### Objectives
 ### Methods and Data Sources
 ### Key Findings
