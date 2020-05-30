@@ -160,7 +160,8 @@ Includes/Extends/Inherits |
 Supporting Information |
 Non-Functional Requirements |
 
-### Use Case Diagrams
+### Use Case Diagram
+![Use Case Diagram](https://cdn.discordapp.com/attachments/639469570838626334/716308844791332954/usecasediagram.png)
 ### Activity Diagrams
 ### Class Diagrams
 ### Collaboration Diagrams
