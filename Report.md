@@ -57,6 +57,109 @@ UD14 | As a Customer, I want to be rerouted to a matched Relationship Manager as
 
 ### Backlog
 ### Use Cases
+User Case Name | Complete Profile Questionnaire
+-- | --
+Use Case ID | UC001
+User Stories | UD01, UD02, UD03
+Goal | Build Relationship Manager profile based on questionnaire
+Priority | High
+Actors | Relationship Managers
+Pre-conditions | 
+Post-conditions | Relationship Manager has personalised profile
+Trigger | Relationship Manager is hired
+Main Flow | 1. Relationship Manager is given questionnaire to complete<br>2. Relationship Manager takes 10 minutes to complete questionnaire<br>3. A skill matrix and profile is generated based on questionnaire results
+Exceptions | 
+Includes/Extends/Inherits |
+Supporting Information | As current employees are already hired, they will have to take questionnaire to get a custom profile established. 
+Non-Functional Requirements |
+
+User Case Name | Outbound Call
+-- | --
+Use Case ID | UC002
+User Stories | UD06, UD07, UD08
+Goal | Connect Relationship Manager to customer
+Priority | 
+Actors | Relationship Managers, Customers
+Pre-conditions | There are available customers that match the Relationship Manager's profile
+Post-conditions | Relationship Manager is connected to customer
+Trigger | 
+Main Flow | 
+Exceptions | 
+Includes/Extends/Inherits |
+Supporting Information |
+Non-Functional Requirements |
+
+User Case Name | Inbound Call
+-- | --
+Use Case ID | UC003
+User Stories | UD05, UD11, UD13, UD14
+Goal | Connect customer to Relationship Manager
+Priority | 
+Actors | Relationship Managers, Potential Customers
+Pre-conditions | 
+Post-conditions | Customer is connected to Relationship Manager
+Trigger | Customer calls Call Management Centre
+Main Flow | 1. The customer calls the Call Management Centre<br>2. Customer is routed the the most appropriate Relationship Manager. If no appropriate Relationship Managers are available see "Alternate Flow 1"
+Exceptions | 
+Includes/Extends/Inherits |
+Supporting Information |
+Non-Functional Requirements |
+
+Alternate Flow 1 | Initiate Interactive Voice Response
+-- | --
+Trigger | No available appropriate Relationship Managers
+Steps | 1. The Interactive Voice Response unit prompts the customer for options<br>2. The Interactive Voice Response unit prompts the customer for call reasons<br>3. The customer is directed to the Automatic Call Distributor
+Post-conditions	| Customer is connected to an appropriate Relationship Manager
+Exceptions |
+
+User Case Name | Generate Customer Profile
+-- | --
+Use Case ID | UC004
+User Stories | 
+Goal |
+Priority | 
+Actors | 
+Pre-conditions | 
+Post-conditions | 
+Trigger | 
+Main Flow | 
+Exceptions | 
+Includes/Extends/Inherits |
+Supporting Information |
+Non-Functional Requirements |
+
+User Case Name | Update Customer Profile
+-- | --
+Use Case ID | UC005
+User Stories | 
+Goal |
+Priority | 
+Actors | 
+Pre-conditions | 
+Post-conditions | 
+Trigger | 
+Main Flow | 
+Exceptions | 
+Includes/Extends/Inherits |
+Supporting Information |
+Non-Functional Requirements |
+
+User Case Name | Match Relationship Manager to Customer
+-- | --
+Use Case ID | UC006
+User Stories | 
+Goal |
+Priority | 
+Actors | 
+Pre-conditions | 
+Post-conditions | 
+Trigger | 
+Main Flow | 
+Exceptions | 
+Includes/Extends/Inherits |
+Supporting Information |
+Non-Functional Requirements |
+
 ### Use Case Diagrams
 ### Activity Diagrams
 ### Class Diagrams
