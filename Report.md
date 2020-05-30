@@ -61,9 +61,9 @@ UD15 | As a Customer, I want to be rerouted to a matched Relationship Manager as
 User Case Name | Complete Profile Questionnaire
 -- | --
 Use Case ID | UC001
-User Stories | UD01, UD02, UD03
+User Stories | UD01, UD02, UD03, UD10
 Goal | Build Relationship Manager profile based on questionnaire
-Priority | High
+Priority | Moderate
 Actors | Relationship Managers
 Pre-conditions | 
 Post-conditions | Relationship Manager has personalised profile
@@ -71,39 +71,36 @@ Trigger | Relationship Manager is hired
 Main Flow | 1. Relationship Manager is given questionnaire to complete<br>2. Relationship Manager takes 10 minutes to complete questionnaire<br>3. A skill matrix and profile is generated based on questionnaire results
 Exceptions | 
 Includes/Extends/Inherits |
-Supporting Information | As current employees are already hired, they will have to take questionnaire to get a custom profile established. 
-Non-Functional Requirements |
+Non-Functional Requirements | Current employees will additionally have to take the questionnaire to get a custom profile established
 
 User Case Name | Outbound Call
 -- | --
 Use Case ID | UC002
-User Stories |
+User Stories | UD04, UD09
 Goal | Connect Relationship Manager to customer
-Priority | 
+Priority | High
 Actors | Relationship Managers, Potential Customers
 Pre-conditions | There are available customers that match the Relationship Manager's profile
 Post-conditions | Relationship Manager is connected to customer
 Trigger | Relationship Manager calls Potential Customer
-Main Flow | 1. The Relationship Manager calls the customer<br>2.The Relationship Manager uses the script and guidelines to talk to the customer
-Exceptions | 
-Includes/Extends/Inherits |
-Supporting Information |
+Main Flow | 1. The Relationship Manager calls the customer<br>2. The customer details are displayed to the Relationship Manager<br>3.The Relationship Manager uses the script and guidelines to talk to the customer
+Exceptions | Customer does not take call<br>Customer hangs up
+Includes/Extends/Inherits | Includes Match Relationship Manager to Customer
 Non-Functional Requirements |
 
 User Case Name | Inbound Call
 -- | --
 Use Case ID | UC003
-User Stories |
+User Stories | UD05, UD12, UD14, UD15
 Goal | Connect customer to Relationship Manager
-Priority | 
+Priority | High
 Actors | Relationship Managers, Existing Customers
 Pre-conditions | 
 Post-conditions | Customer is connected to Relationship Manager
 Trigger | Customer calls Call Management Centre
 Main Flow | 1. The customer calls the Call Management Centre<br>2. Customer is routed the the most appropriate Relationship Manager. If no appropriate Relationship Managers are available see "Alternate Flow 1"
-Exceptions | 
-Includes/Extends/Inherits |
-Supporting Information |
+Exceptions | Customer hangs up
+Includes/Extends/Inherits | Includes Match Relationship Manager to Customer
 Non-Functional Requirements |
 
 Alternate Flow 1 | Initiate Interactive Voice Response
@@ -111,54 +108,51 @@ Alternate Flow 1 | Initiate Interactive Voice Response
 Trigger | No available appropriate Relationship Managers
 Steps | 1. The Interactive Voice Response unit prompts the customer for options<br>2. The Interactive Voice Response unit prompts the customer for call reasons<br>3. The customer is directed to the Automatic Call Distributor
 Post-conditions	| Customer is connected to an appropriate Relationship Manager
-Exceptions |
+Exceptions | Customer hangs up
 
 User Case Name | Generate Customer Profile
 -- | --
 Use Case ID | UC004
-User Stories | 
-Goal |
-Priority | 
+User Stories | UD06, UD07, UD08
+Goal | Customer profile is generated base on background
+Priority | Moderate
 Actors | 
-Pre-conditions | 
-Post-conditions | 
-Trigger | 
-Main Flow | 1. A customer target list is generated<br>2. The customer details are retrieved from a database<br>3. The details are displayed to a Relationship Manager<br>4. The Relationship Manager is given a script and a guideline for each customer
-Exceptions | 
-Includes/Extends/Inherits |
-Supporting Information |
-Non-Functional Requirements |
+Pre-conditions | The customer details are available
+Post-conditions | The customer has a personalised profile
+Trigger | Potential buyer is discovered
+Main Flow | 1. A customer target list is generated<br>2. The customer details are retrieved from a database<br>3. A script and a guidelines is generated for each customer
+Exceptions | Customer details are not able accessible 
+Includes/Extends/Inherits | Extends Outbound Call
+Non-Functional Requirements | Existing customer will additionally have to have a custom profile established
 
 User Case Name | Update Customer Profile
 -- | --
 Use Case ID | UC005
-User Stories | 
-Goal |
-Priority | 
+User Stories | UD11
+Goal | Customer profile is updated
+Priority | Low
 Actors | 
-Pre-conditions | 
-Post-conditions | 
+Pre-conditions | Customer has an existing profile
+Post-conditions | Customer profile has been appropriately updated
 Trigger | Customer makes a purchase
 Main Flow | 1. Retrieve customer profile<br>2. Update customer profile to indicate increase in likelihood of purchases
 Exceptions | 
-Includes/Extends/Inherits |
-Supporting Information |
+Includes/Extends/Inherits | Extends Inbound Call
 Non-Functional Requirements |
 
 User Case Name | Match Relationship Manager to Customer
 -- | --
 Use Case ID | UC006
-User Stories | 
-Goal |
-Priority | 
+User Stories | UD13
+Goal | Customer is matched is most appropriate Relationship Manager
+Priority | High
 Actors | 
-Pre-conditions | 
-Post-conditions | 
-Trigger | 
+Pre-conditions | Relationship Manager profile exists<br>Customer profile exists
+Post-conditions | Customer is matched to Relationship Manager
+Triggers | Customer needs to be matched to Relationship Manager<br>Relationship Manager needs to be matched to Customer
 Main Flow | 1. Retrive customer profile<br>2. Retrieve Relationship Manager profiles<br>3. Match most appropriate Relationship Manager to customer
 Exceptions | 
 Includes/Extends/Inherits |
-Supporting Information |
 Non-Functional Requirements |
 
 ### Use Case Diagram
