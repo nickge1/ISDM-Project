@@ -158,6 +158,23 @@ Non-Functional Requirements |
 ### Use Case Diagram
 ![Use Case Diagram](https://cdn.discordapp.com/attachments/639469570838626334/716308844791332954/usecasediagram.png)
 ### Activity Diagrams
+Complete Profile Questionnaire<br>
+![Complete Profile Questionnaire](https://cdn.discordapp.com/attachments/606102319154593793/716688297451192420/AD1.png)
+
+Outbound Call<br>
+![Outbound Call](https://cdn.discordapp.com/attachments/606102319154593793/716688353197686784/AD2.png)
+
+Inbound Call<br>
+![Inbound Call](https://cdn.discordapp.com/attachments/606102319154593793/716688364887343124/AD3.png)
+
+Generate Customer Profile<br>
+![Generate Customer Profile](https://cdn.discordapp.com/attachments/606102319154593793/716688376807292928/AD4.png)
+
+Update Customer Profile<br>
+![Update Customer Profile](https://cdn.discordapp.com/attachments/606102319154593793/716688387683385344/AD5.png)
+
+Match Relationship Manager to Customer<br>
+![Match Relationship Manager to Customer](https://cdn.discordapp.com/attachments/606102319154593793/716688400945512449/AD6.png)
 ### Class Diagram
 ![Class Diagram](https://cdn.discordapp.com/attachments/639469570838626334/716536222385831956/Class_Diagram3.png)
 ### Collaboration Diagrams
