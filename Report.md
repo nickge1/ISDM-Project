@@ -158,7 +158,8 @@ Non-Functional Requirements |
 ### Use Case Diagram
 ![Use Case Diagram](https://cdn.discordapp.com/attachments/639469570838626334/716308844791332954/usecasediagram.png)
 ### Activity Diagrams
-### Class Diagrams
+### Class Diagram
+![Class Diagram](https://cdn.discordapp.com/attachments/639469570838626334/716536222385831956/Class_Diagram3.png)
 ### Collaboration Diagrams
 
 ## References
