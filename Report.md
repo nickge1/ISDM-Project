@@ -54,6 +54,8 @@ User Story ID | User Story
 UD15 | As a Customer, I want to be rerouted to a matched Relationship Manager as soon as possible so that I do not have to wait to talk.
 
 ### Backlog
+![Backlog](https://cdn.discordapp.com/attachments/606102319154593793/717091539108757634/Backlog.png)
+
 ### Use Cases
 User Case Name | Complete Profile Questionnaire
 -- | --
