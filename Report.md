@@ -178,7 +178,23 @@ Match Relationship Manager to Customer<br>
 ### Class Diagram
 ![Class Diagram](https://cdn.discordapp.com/attachments/639469570838626334/716536222385831956/Class_Diagram3.png)
 ### Collaboration Diagrams
+Complete Profile Questionnaire<br>
+![Complete Profile Questionnaire](https://cdn.discordapp.com/attachments/606102319154593793/717026348295782461/Collaboration-C1.png)
 
+Outbound Call<br>
+![Outbound Call](https://cdn.discordapp.com/attachments/606102319154593793/717026346928439377/Collaboration-C2.png)
+
+Inbound Call<br>
+![Inbound Call](https://cdn.discordapp.com/attachments/606102319154593793/717026345816686723/Collaboration-C3.png)
+
+Generate Customer Profile<br>
+![Generate Customer Profile](https://cdn.discordapp.com/attachments/606102319154593793/717026344659058698/Collaboration-C4.png)
+
+Update Customer Profile<br>
+![Update Customer Profile](https://cdn.discordapp.com/attachments/606102319154593793/717026343157760050/Collaboration-C5.png)
+
+Match Relationship Manager to Customer<br>
+![Match Relationship Manager to Customer](https://cdn.discordapp.com/attachments/606102319154593793/717026341391695902/Collaboration-C6.png)
 ## References
 
 ## Appendices
