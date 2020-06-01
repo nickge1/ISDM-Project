@@ -21,6 +21,12 @@ The methods of analysis and evaluation used are Use Cases, Use Case Diagrams, Ac
 
 ## Body of the Report
 ### Stakeholders
+Existing Customers<br>
+Relationship Managers<br>
+IT team<br>
+Company owner<br>
+Potential Customers
+
 ### Empathy Maps
 ### Point of View Statements
 ### How Might We statements
