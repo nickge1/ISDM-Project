@@ -1,7 +1,4 @@
-# Report
-## Table of Contents
-
-## Acknowledgments
+# Information System Development Report
 
 ## Executive Summary
 This report presents an analysis and evaluation of a new information system for a major travel company.
@@ -17,7 +14,7 @@ The current system for a Call Management Centre is inefficient. Both potential a
 - Increase the total customer intake
 
 ### Methods and Data Sources
-The methods of analysis and evaluation used are Use Cases, Use Case Diagrams, Activity Diagrams, Class Diagrams and Collaboration Diagrams.
+The methods of analysis and evaluation used are Use Cases, Use Case Diagrams, Activity Diagrams, Class Diagrams and sollaboration Diagrams. Additionally, a number of Scrum activites were used in the development of the report. Individual Sprints were made for the Problem Definition, Design Thinking Approach, Workproducts and Models and the Competitive advantages and Effects of Project Failure. Additionally updates were discussed during the Daily Scrum and Sprint Retrospectives were carried out.
 
 ### Key Findings
 ### Conclusions
