@@ -212,5 +212,3 @@ Overall there are a number of potential benefits to the efficiency, productivity
 While there are a number of benefits for the new information system, it has the potential to be either ineffective or detrimental. The failure of any individual component of the system could reduce the overall effectiveness and efficiency of matches made, decreasing profits. As development costs would be required for the new information system, a project failure would be expensive.
 
 ## References
-
-## Appendices
