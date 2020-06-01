@@ -195,6 +195,23 @@ Update Customer Profile<br>
 
 Match Relationship Manager to Customer<br>
 ![Match Relationship Manager to Customer](https://cdn.discordapp.com/attachments/606102319154593793/717026341391695902/Collaboration-C6.png)
+
+### Potential Project Benefits
+The new information system concept for the call management centre has a number of potential benefits. The system matches appropriate Relationship Managers to each customer on the basis of their cultural and social backgrounds. Additionally, base information is provided on each customer to the Relationship Managers allowing them to provide a more targeted and personalised advertisement that increases the probability of product purchase.
+Relationship Managers are also matched to customers according to their abilities, improving the efficiency of the time used. This results in an increase in availability, allowing customers to be attended to faster. This enables Relationship Managers to process an increased amount of customers and improve overall profits.
+
+The addition of the personalised guidelines and script provided on each customer allows Relationship Managers to have a reference to an improved base level of interaction that can be used to increase the likelihood of product purchase.
+
+The automated Interactive Voice Response unit prompting the customer for options and their call reasons. This allows Relationship Managers to understand the purpose of the call and be able to address the requirements prior to the call itself, increasing the overall efficiency of the calls. The Interactive Voice Response unit has the added potential benefit of making customers feel that they are being attended to, reducing the probability of customers hanging up.
+
+The new information system has additional potential benefits with the use of an automatically updating skill matrix corresponding to each Relationship Manager. The skill matrix can be used to identify the abilities, strengths and weaknesses for the Relationship Managers and has the potential to be used to increase overall productivity by improving any identified inefficient areas or employees.
+
+The new information system targets the customers that are more likely to purchase the product and matches them with higher skilled Relationship Managers to ensure product purchase. This concept is supported by the Pareto Principle in which the top 20% of customers are likely to purchase 80% of total products. By targeting the customers with a higher probability of purchasing, more total products are likely to be sold.
+Overall there are a number of potential benefits to the efficiency, productivity and effectiveness of the information system which results in an increased profit margin.
+
+### Potential Effects of Project Failure
+While there are a number of benefits for the new information system, it has the potential to be either ineffective or detrimental. The failure of any individual component of the system could reduce the overall effectiveness and efficiency of matches made, decreasing profits. As development costs would be required for the new information system, a project failure would be expensive.
+
 ## References
 
 ## Appendices
