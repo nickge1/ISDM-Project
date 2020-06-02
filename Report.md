@@ -163,6 +163,15 @@ As an IT team member, I now have more work to do to maintain servers due to a ne
 As an IT team member, I do not believe there is more work to do as server maintenance is the same as normal<br>
 As an IT team member, I have to learn skills that are foreign to me
 ### How Might We statements
+How Might We save on costs of development?<br>
+How Might We satisfy customers who are against collecing data?<br>
+How Might We minimise the questions in the survey for the most impact?<br>
+How Might We save on costs of maintenance?<br>
+How Might We develop this further with the current trends?<br>
+How Might We use this software to increase sales?<br>
+How Might We use this software to improve user experience?<br>
+How Might We use this software to improve efficiency of our relationship managers?
+
 ### Reflection
 The process undertaken for designing the new information system following the Design Thinking principles and methods. During the first ‘Empathise’ phase, stakeholders were identified and empathy maps were created for each one. Additionally Point of View Statements were generated from the perspectives of all the stakeholders. During the ‘Define’ phase the Point of View Statements were turned into How We Might Statements and the problem and objectives themselves were identified and analysed. During the ‘Ideate’ phase we discussed the use of the Relationship Manager skill matrices in the profiles and the potential to extend the use of them for identifying weak skills and employees. The skill matrices could also be used to visualise trends in the abilities of Relationship Managers. These additions have the potential to increase overall efficiency and profits for the call management centre.
 
