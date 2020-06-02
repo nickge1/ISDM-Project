@@ -1,9 +1,11 @@
 # Information System Development Report
-13607736 - Sacha Gilchrist
+Group 6<br>
+13607736 - Sacha Gilchrist<br>
 13544541 - Nicholas Ge
 
 ## Executive Summary
 This report presents an analysis and evaluation of a new information system for a major travel company.
+The presentation for this report can be found at <youtubelink>.
 
 ### Problem Definition
 The current system for a Call Management Centre is inefficient. Both potential and existing customers are matched to Relationship Managers according to availability. As a result, the time of the Relationship Managers is not being used efficiently and customers have to wait longer to talk to a Relationship Manager. Consequently, customers are less likely to accept an offered product and sales are reduced. A new system is to be developed to increase the amount of customers and the likelihood of customers purchasing products.
@@ -195,7 +197,7 @@ User Story ID | User Story
 UD15 | As a Customer, I want to be rerouted to a matched Relationship Manager as soon as possible so that I do not have to wait to talk.
 
 ### Backlog
-![Backlog](https://cdn.discordapp.com/attachments/606102319154593793/717091539108757634/Backlog.png)
+![Backlog](https://cdn.discordapp.com/attachments/606102319154593793/717344644194631720/backlog2.png)
 
 ### Use Cases
 User Case Name | Complete Profile Questionnaire
