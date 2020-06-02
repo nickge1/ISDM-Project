@@ -1,4 +1,6 @@
 # Information System Development Report
+13607736 - Sacha Gilchrist
+13544541 - Nicholas Ge
 
 ## Executive Summary
 This report presents an analysis and evaluation of a new information system for a major travel company.
@@ -31,6 +33,10 @@ Potential Customers
 ### Point of View Statements
 ### How Might We statements
 ### Reflection
+The process undertaken for designing the new information system following the Design Thinking principles and methods. During the first ‘Empathise’ phase, stakeholders were identified and empathy maps were created for each one. Additionally Point of View Statements were generated from the perspectives of all the stakeholders. During the ‘Define’ phase the Point of View Statements were turned into How We Might Statements and the problem and objectives themselves were identified and analysed. During the ‘Ideate’ phase we discussed the use of the Relationship Manager skill matrices in the profiles and the potential to extend the use of them for identifying weak skills and employees. The skill matrices could also be used to visualise trends in the abilities of Relationship Managers. These additions have the potential to increase overall efficiency and profits for the call management centre.
+
+A number of assumptions were made in the systems analysis. The score given to the customer was assumed to be associated with, and updated in accordance to, the existing customer profile. The target customers were assumed to have social and cultural backgrounds available for the customer profile. Customers with a higher likelihood to purchase a product were assumed to be served with higher skilled Relationship Managers.
+
 ### User Stories
 Relationship Manager
 User Story ID | User Story
