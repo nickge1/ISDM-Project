@@ -16,8 +16,8 @@ The current system for a Call Management Centre is inefficient. Both potential a
 ### Methods and Data Sources
 The methods of analysis and evaluation used are Use Cases, Use Case Diagrams, Activity Diagrams, Class Diagrams and sollaboration Diagrams. Additionally, a number of Scrum activites were used in the development of the report. Individual Sprints were made for the Problem Definition, Design Thinking Approach, Workproducts and Models and the Competitive advantages and Effects of Project Failure. Additionally updates were discussed during the Daily Scrum and Sprint Retrospectives were carried out.
 
-### Key Findings
-### Conclusions
+### Conclusion
+The implementation of the new information system will potentially increase the overall efficiency and sales, increasing the profit of the company. The conclusion can be drawn that the information system is a necessary addition to the Call Management Center due to the potential benefits outweighing the cost of development and potential risks. 
 
 ## Body of the Report
 ### Stakeholders
