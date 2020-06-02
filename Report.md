@@ -1,7 +1,4 @@
-# Report
-## Table of Contents
-
-## Acknowledgments
+# Information System Development Report
 
 ## Executive Summary
 This report presents an analysis and evaluation of a new information system for a major travel company.
@@ -17,13 +14,19 @@ The current system for a Call Management Centre is inefficient. Both potential a
 - Increase the total customer intake
 
 ### Methods and Data Sources
-The methods of analysis and evaluation used are Use Cases, Use Case Diagrams, Activity Diagrams, Class Diagrams and Collaboration Diagrams.
+The methods of analysis and evaluation used are Use Cases, Use Case Diagrams, Activity Diagrams, Class Diagrams and sollaboration Diagrams. Additionally, a number of Scrum activites were used in the development of the report. Individual Sprints were made for the Problem Definition, Design Thinking Approach, Workproducts and Models and the Competitive advantages and Effects of Project Failure. Additionally updates were discussed during the Daily Scrum and Sprint Retrospectives were carried out.
 
-### Key Findings
-### Conclusions
+### Conclusion
+The implementation of the new information system will potentially increase the overall efficiency and sales, increasing the profit of the company. The conclusion can be drawn that the information system is a necessary addition to the Call Management Center due to the potential benefits outweighing the cost of development and potential risks. 
 
 ## Body of the Report
 ### Stakeholders
+Existing Customers<br>
+Relationship Managers<br>
+IT team<br>
+Company owner<br>
+Potential Customers
+
 ### Empathy Maps
 ### Point of View Statements
 ### How Might We statements
@@ -57,6 +60,8 @@ User Story ID | User Story
 UD15 | As a Customer, I want to be rerouted to a matched Relationship Manager as soon as possible so that I do not have to wait to talk.
 
 ### Backlog
+![Backlog](https://cdn.discordapp.com/attachments/606102319154593793/717091539108757634/Backlog.png)
+
 ### Use Cases
 User Case Name | Complete Profile Questionnaire
 -- | --
@@ -178,7 +183,40 @@ Match Relationship Manager to Customer<br>
 ### Class Diagram
 ![Class Diagram](https://cdn.discordapp.com/attachments/639469570838626334/716536222385831956/Class_Diagram3.png)
 ### Collaboration Diagrams
+Complete Profile Questionnaire<br>
+![Complete Profile Questionnaire](https://cdn.discordapp.com/attachments/606102319154593793/717026348295782461/Collaboration-C1.png)
+
+Outbound Call<br>
+![Outbound Call](https://cdn.discordapp.com/attachments/606102319154593793/717026346928439377/Collaboration-C2.png)
+
+Inbound Call<br>
+![Inbound Call](https://cdn.discordapp.com/attachments/606102319154593793/717026345816686723/Collaboration-C3.png)
+
+Generate Customer Profile<br>
+![Generate Customer Profile](https://cdn.discordapp.com/attachments/606102319154593793/717026344659058698/Collaboration-C4.png)
+
+Update Customer Profile<br>
+![Update Customer Profile](https://cdn.discordapp.com/attachments/606102319154593793/717026343157760050/Collaboration-C5.png)
+
+Match Relationship Manager to Customer<br>
+![Match Relationship Manager to Customer](https://cdn.discordapp.com/attachments/606102319154593793/717026341391695902/Collaboration-C6.png)
+
+### Potential Project Benefits
+The new information system concept for the call management centre has a number of potential benefits. The system matches appropriate Relationship Managers to each customer on the basis of their cultural and social backgrounds. Additionally, base information is provided on each customer to the Relationship Managers allowing them to provide a more targeted and personalised advertisement that increases the probability of product purchase (Coviello, Brodie, Danaher and Johnston, 2002).
+Relationship Managers are also matched to customers according to their abilities, improving the efficiency of the time used. This results in an increase in availability, allowing customers to be attended to faster. This enables Relationship Managers to process an increased amount of customers and improve overall profits.
+
+The addition of the personalised guidelines and script provided on each customer allows Relationship Managers to have a reference to an improved base level of interaction that can be used to increase the likelihood of product purchase.
+
+The automated Interactive Voice Response unit prompting the customer for options and their call reasons. This allows Relationship Managers to understand the purpose of the call and be able to address the requirements prior to the call itself, increasing the overall efficiency of the calls. The Interactive Voice Response unit has the added potential benefit of making customers feel that they are being attended to, reducing the probability of customers hanging up.
+
+The new information system has additional potential benefits with the use of an automatically updating skill matrix corresponding to each Relationship Manager. The skill matrix can be used to identify the abilities, strengths and weaknesses for the Relationship Managers and has the potential to be used to increase overall productivity by improving any identified inefficient areas or employees.
+
+The new information system targets the customers that are more likely to purchase the product and matches them with higher skilled Relationship Managers to ensure product purchase. This concept is supported by the Pareto Principle in which the top 20% of customers are likely to purchase 80% of total products. By targeting the loyal customers with a higher probability of purchasing, more total products are likely to be sold (Mizuno, Toriyama, Terano and Takayasu, 2008). Overall there are a number of potential benefits to the efficiency, productivity and effectiveness of the information system which results in an increased profit margin.
+
+### Potential Effects of Project Failure
+While there are a number of benefits for the new information system, it has the potential to be either ineffective or detrimental. The failure of any individual component of the system could reduce the overall effectiveness and efficiency of matches made, decreasing profits. As development costs would be required for the new information system, a project failure would be expensive.
 
 ## References
+Coviello, N., Brodie, R., Danaher, P. and Johnston, W., 2002. ‘How Firms Relate to Their Markets: An Empirical Examination of Contemporary Marketing Practices’. Journal of Marketing, 66(3), pp.33-46.
 
-## Appendices
+Mizuno, T., Toriyama, M., Terano, T. and Takayasu, M., 2008. ‘Pareto law of the expenditure of a person in convenience stores’, Physica A: Statistical Mechanics and its Applications, 387(15), pp.3931-3935.
