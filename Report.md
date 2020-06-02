@@ -23,7 +23,7 @@ The methods of analysis and evaluation used are Use Cases, Use Case Diagrams, Ac
 ### Conclusion
 The implementation of the new information system will potentially increase the overall efficiency and sales, increasing the profit of the company. The conclusion can be drawn that the information system is a necessary addition to the Call Management Center due to the potential benefits outweighing the cost of development and potential risks. 
 
-## New Information System
+## Content
 ### Stakeholders
 Existing Customers<br>
 Relationship Managers<br>
