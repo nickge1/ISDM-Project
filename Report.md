@@ -5,7 +5,7 @@ Group 6<br>
 
 ## Executive Summary
 This report presents an analysis and evaluation of a new information system for a major travel company.
-The presentation for this report can be found at <youtubelink>.
+The presentation for this report can be found at https://youtu.be/8E07wgW1QRs.
 
 ### Problem Definition
 The current system for a Call Management Centre is inefficient. Both potential and existing customers are matched to Relationship Managers according to availability. As a result, the time of the Relationship Managers is not being used efficiently and customers have to wait longer to talk to a Relationship Manager. Consequently, customers are less likely to accept an offered product and sales are reduced. A new system is to be developed to increase the amount of customers and the likelihood of customers purchasing products.
